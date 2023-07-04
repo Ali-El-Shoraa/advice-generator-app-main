@@ -38,13 +38,13 @@ Users should be able to:
 
 - HTML
 - CSS
-- Flexbox
-- Animation
+ - Flexbox
+ - Animation
 - Fontawesome - icon library
 - Normalize - CSS library
 - JavaScript
-- AJAX
-- DOM
+ - AJAX
+ - DOM
 
 ## Author
 
